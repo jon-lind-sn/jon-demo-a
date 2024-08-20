@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+    "name": "x-snc-demo-app",
+    "version": "0.0.1",
+    "description": "My demo app",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk deploy",
+        "fetch": "now-sdk fetch",
+        "dependencies": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "2.0.0",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "2.0.0"
+    }
+}
+]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_demo_app/x-snc-demo-app/0.0.1/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>jon.lind</sys_created_by>
+        <sys_created_on>2024-08-19 22:15:08</sys_created_on>
+        <sys_id>3a6531ba1bc01e1021b62064604bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_demo_app/x-snc-demo-app/0.0.1/package.json</sys_name>
+        <sys_package display_value="Demo App" source="x_snc_demo_app">3a5a3d4003d446d39eb97808c93b6ab0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">3a5a3d4003d446d39eb97808c93b6ab0</sys_scope>
+        <sys_update_name>sys_module_3a6531ba1bc01e1021b62064604bcb4a</sys_update_name>
+        <sys_updated_by>jon.lind</sys_updated_by>
+        <sys_updated_on>2024-08-19 22:15:08</sys_updated_on>
+    </sys_module>
+</record_update>
